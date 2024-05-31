@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Putra
-- 👀 I’m interested to One-san
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on javascript to make discord bot
+i hate this job
 
 
 <!---
